@@ -1,0 +1,35 @@
+header{
+    background-color: #e0e9ee;
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+.logo{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 30px;
+    width: 30%;
+    color: black;
+}
+nav{
+    width: 70%;
+}
+.header-list{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+}
+.header-item{
+    list-style: none;
+    width: 15%;
+}
+
+a.active{
+    border-bottom: 1px solid black;
+}

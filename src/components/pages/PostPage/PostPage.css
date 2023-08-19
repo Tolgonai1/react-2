@@ -1,0 +1,12 @@
+.posts-list{
+    margin: 20px 15px 20px 40px;
+}
+.posts-list li{
+    padding-bottom: 6px;
+    font-size: 18px;
+}
+.newPost{
+    text-align: center;
+    color: #7474ee;
+    margin-bottom: 25px;
+}
